@@ -5,7 +5,7 @@ stone = "#"
 i = 1
 space = " "
 x = 1
-r = 1
+r = 0
 
 
 while r < number
